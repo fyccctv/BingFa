@@ -13,6 +13,9 @@ namespace ConsoleApplication1
             string a = "";
             string k = "";
             string dd="asdf";
+        
+            Console.WriteLine("done!");
+            Console.ReadLine();
         }
     }
 }
