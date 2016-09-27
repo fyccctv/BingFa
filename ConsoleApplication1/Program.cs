@@ -12,7 +12,10 @@ namespace ConsoleApplication1
         {
             string a = "";
             string k = "";
-            string dd="asdf";
+            string dd="反应的";
+            Console.WriteLine("值不为21且不为30的次数：" );
+            Console.WriteLine("done!");
+            Console.ReadLine();
         }
     }
 }
