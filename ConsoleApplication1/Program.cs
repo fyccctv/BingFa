@@ -12,7 +12,7 @@ namespace ConsoleApplication1
         {
             string a = "";
             string k = "";
-            string dd="反应";
+            string dd="反应的";
         }
     }
 }
