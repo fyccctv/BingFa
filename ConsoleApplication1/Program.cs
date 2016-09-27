@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             string a = "";
             string k = "";
+            string dd="";
         }
     }
 }
